@@ -1,7 +1,7 @@
 <?php
 
 include __DIR__ . '/../../fpdf/fpdf.php';
-include __DIR__ . '/../../includes/conexion.php'; // Ajusta la ruta según tu estructura
+include __DIR__ . '/../../includes/conexion.php'; 
 
 class PDF extends FPDF
 {
